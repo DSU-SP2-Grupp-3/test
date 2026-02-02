@@ -7,3 +7,5 @@ this should not push
 ändrad rad
 
 annan ändring
+
+ingen konflikt
