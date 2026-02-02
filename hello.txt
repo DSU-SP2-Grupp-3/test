@@ -4,6 +4,6 @@ this is test branch commit
 
 this should not push
 
-fel ändring i main
+ändrad rad
 
 annan ändring
